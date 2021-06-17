@@ -4,7 +4,7 @@
 - 👀 I’m currently working on website desing.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate with others content creator.
-- 📫 2021 Golas: Learn more and be the best version of yourself!
+- 📫 2021 Goals: Learn more and be the best version of yourself!
 
 
 <!--- ### Connect with me:
