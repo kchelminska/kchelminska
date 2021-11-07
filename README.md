@@ -4,7 +4,7 @@
 - :earth_americas: I’m currently working on website desing.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 - :couple: I’m looking to collaborate with others content creator.
-- :heavy_check_mark: 2021 Goals: Learn more and be the best version of yourself!
+- :heavy_check_mark: 2022 Goals: Learn more and be the best version of yourself!
 
 ### Languages and Tools:
 <img width="32" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
