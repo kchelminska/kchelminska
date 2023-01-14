@@ -1,6 +1,6 @@
 ### Hi there, I'm Kasia 👋
 
-## I'm a Junior Front-End Developer 
+## I'm a Front-End Developer 
 - :earth_americas: I’m currently working on website desing.
 - 🌱 I’m currently learning JavaScript, HTML, CSS.
 - :couple: I’m looking to collaborate with others content creator.
