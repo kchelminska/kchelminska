@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer 
 - :earth_americas: I’m currently working on website desing.
-- 🌱 I’m currently learning JavaScript, HTML, CSS.
+- 🌱 I’m currently learning JavaScript on a course at Software Development Academy.
 - :couple: I’m looking to collaborate with others content creator.
 - :heavy_check_mark: 2023 Goals: Learn more and be the best version of yourself!
 
